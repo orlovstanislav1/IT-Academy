@@ -1,0 +1,22 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€² Ğøÿÿÿÿ8¹Ìœß.
+G
+java:S3457"%String contains no format specifiers.(ò°êÿûÿÿÿÿ8¹Ìœß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§¨Ğ¢ıÿÿÿÿ8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å‘½™8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë…–Í8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†®Ş½8¹Ìœß.
+G
+java:S3457"%String contains no format specifiers.(¢Ñèøÿÿÿÿ8¹Ìœß.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(‘Ñº›şÿÿÿÿ8¹Ìœß.
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Å‘½™8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·­Ò©8¹Ìœß.
+s
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(‘Ñº›şÿÿÿÿ8¹Ìœß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ñèøÿÿÿÿ8¹Ìœß.
+B
+java:S3457"%String contains no format specifiers.(·­Ò©8¹Ìœß.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò°êÿûÿÿÿÿ8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í»ÂŠ8¹Ìœß.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿›ö‡8¹Ìœß.
