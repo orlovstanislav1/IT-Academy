@@ -1,18 +1,0 @@
-
-n
-java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(Ε™¶8γ–Νί.
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(πώ‰ή8γ–Νί.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ε™¶8γ–Νί.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€² Πψÿÿÿÿ8γ–Νί.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Τ»ªΞ8γ–Νί.
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ψυα8γ–Νί.
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Τ»ªΞ8γ–Νί.
-d
-java:S1192"GDefine a constant instead of duplicating this literal "%.2f\n" 4 times.(Τ»ªΞ8γ–Νί.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ψυα8γ–Νί.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ΘΪλ8γ–Νί.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ϊ°Γϊÿÿÿÿ8γ–Νί.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(πώ‰ή8γ–Νί.

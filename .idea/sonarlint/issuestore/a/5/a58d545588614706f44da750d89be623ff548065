@@ -1,35 +1,0 @@
-
-J
-java:S1121".Extract the assignment out of this expression.(¡•ÃP8±Ù‘Šß.
-Q
-java:S1854"5Remove this useless assignment to local variable "c".(¡•ÃP8ş¡‘‰ß.
-U	java:S106'"9Replace this use of System.out or System.err by a logger.(ùèú8ş¡‘‰ß.
-T	java:S106%"9Replace this use of System.out or System.err by a logger.(Ş¬Â8ş¡‘‰ß.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªö«îûÿÿÿÿ8ş¡‘‰ß.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(¡•ÃP8ş¡‘‰ß.
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(÷¬Ú½øÿÿÿÿ8ş¡‘‰ß.
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(˜á‹ª8ş¡‘‰ß.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïì¯Ö8ÎÎÙ‡ß.
-U	java:S106)"9Replace this use of System.out or System.err by a logger.(Åî¨8ş¡‘‰ß.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ê½çşÿÿÿÿ8ş¡‘‰ß.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€² Ğøÿÿÿÿ8ÎÎÙ‡ß.
-l
-java:S1192"JDefine a constant instead of duplicating this literal " Ğ³Ğ¾Ğ´ " 13 times.(ë¼îòûÿÿÿÿ8ü–ŸŠß.
-…
-java:S1192"cDefine a constant instead of duplicating this literal "Ğ·Ğ°Ğ²Ñ‚Ñ€Ğ° Ğ±ÑƒĞ´ĞµÑ‚ Ğ´Ğ°Ñ‚Ğ° " 13 times.(ë¼îòûÿÿÿÿ8¹§ë‡ß.
-W
-java:S1854"5Remove this useless assignment to local variable "a".(ë¼îòûÿÿÿÿ8ş¡‘‰ß.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ƒ»»ùÿÿÿÿ8ş¡‘‰ß.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì­ç¢8ÎÎÙ‡ß.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÓüÊš8ş¡‘‰ß.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒŠ—‰úÿÿÿÿ8ÎÎÙ‡ß.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éèÃ€ÿÿÿÿÿ8ş¡‘‰ß.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÍ”™8ÎÎÙ‡ß.
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(•’Ûûÿÿÿÿ8ş¡‘‰ß.
-p
-java:S1192"NDefine a constant instead of duplicating this literal " Ğ¼ĞµÑÑÑ† " 13 times.(ë¼îòûÿÿÿÿ8ü–ŸŠß.
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8Ş¼û‡ß.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë¼îòûÿÿÿÿ8ş¡‘‰ß.
-P
-java:S1121".Extract the assignment out of this expression.(ë¼îòûÿÿÿÿ8ş¡‘‰ß.
