@@ -12,6 +12,7 @@ public class Main {
         System.out.println ( "\"I like Java!\"" );
         System.out.println ( "\"I like Java!\"" );
         System.out.println ( "\"I like Java!\"" );
+        System.out.println ( "\"I like Java!\"" );
 
         System.out.println ( "123" );
     }
