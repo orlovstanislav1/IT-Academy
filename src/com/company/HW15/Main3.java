@@ -1,8 +1,8 @@
 package com.company.HW15;
 /*
- *Создайте класс Person с полями: имя, фамилия, год рождения. Реализуйте у этого класса
+ *Создайте класс Person1 с полями: имя, фамилия, год рождения. Реализуйте у этого класса
  * паттерн Builder(Строитель).
- * Введите поля с клавиатуры и заполните объект класса Person с помощью паттерна
+ * Введите поля с клавиатуры и заполните объект класса Person1 с помощью паттерна
  * Строитель.
  * */
 
@@ -49,23 +49,23 @@ class Person {
     @Override
     public String toString() {
         if (surname != null && yearOfBirth != 0) {
-            return "Person{" +
+            return "Person1{" +
                     "name='" + name + '\'' +
                     ", surname='" + surname + '\'' +
                     ", yearOfBirth=" + yearOfBirth +
                     '}';
         } else if (surname != null && yearOfBirth == 0) {
-            return "Person{" +
+            return "Person1{" +
                     "name='" + name + '\'' +
                     ", surname='" + surname + '\'' +
                     '}';
         } else if (surname == null && yearOfBirth != 0) {
-            return "Person{" +
+            return "Person1{" +
                     "name='" + name + '\'' +
                     ", yearOfBirth=" + yearOfBirth +
                     '}';
         } else
-            return "Person{" +
+            return "Person1{" +
                     "name='" + name + '\'' +
                     '}';
     }
