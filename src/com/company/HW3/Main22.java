@@ -1,6 +1,6 @@
 package com.company.HW3;
 
-//2.	Посчитать сумму цифр числа 7893823445 с помощью цикла do while.
+//emails.	Посчитать сумму цифр числа 7893823445 с помощью цикла do while.
 
 public class Main22 {
     public static void main(String[] args) {

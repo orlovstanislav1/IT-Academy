@@ -27,7 +27,7 @@ public class Main1 extends Thread {
 
         Thread thread1 = new Main1 ( file, "1" );
         thread1.start ();
-        Thread thread2 = new Main1 ( file, "2" );
+        Thread thread2 = new Main1 ( file, "emails" );
         thread2.start ();
         Thread thread3 = new Main1 ( file, "3" );
         thread3.start ();
@@ -68,6 +68,6 @@ public class Main1 extends Thread {
     }
 }
 /*
-В 1 задании лучше было бы сделать 2 synchronized блока с одинаковым монитором, один для чтения, другой для записи, чтобы не
+В 1 задании лучше было бы сделать emails synchronized блока с одинаковым монитором, один для чтения, другой для записи, чтобы не
 тратить время синхронизации еще и на сон между чтением и записью(спать можно параллельно).
  */

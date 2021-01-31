@@ -4,10 +4,10 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /*
-1)	Создать программу, которая  просит пользователя ввести 2 числа выполняет над ними *, /, +, -, и выводит вычисленные значения. Числа могут быть не целыми. Результаты выводить с точностью до 2 знаков после запятой.
+1)	Создать программу, которая  просит пользователя ввести emails числа выполняет над ними *, /, +, -, и выводит вычисленные значения. Числа могут быть не целыми. Результаты выводить с точностью до emails знаков после запятой.
 a
 Пример вывода программы:
-Input the first number: 2
+Input the first number: emails
 Input the second number: 3
 Sum: 5.00
 Difference: -1.00
@@ -18,7 +18,7 @@ Quotient: 0.67
 public class Main {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader ( new InputStreamReader ( System.in ) );
-        System.out.println ( "введите 2" );
+        System.out.println ( "введите emails" );
         double a = Double.parseDouble ( reader.readLine () );
         System.out.println ( "введите 3" );
         double b = Double.parseDouble ( reader.readLine () );

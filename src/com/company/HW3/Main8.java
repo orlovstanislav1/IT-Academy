@@ -1,6 +1,6 @@
 package com.company.HW3;
 
-//Слить 2 массива (не по порядку)
+//Слить emails массива (не по порядку)
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

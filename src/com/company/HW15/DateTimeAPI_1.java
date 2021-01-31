@@ -3,7 +3,7 @@ package com.company.HW15;
 1)	Выполнить следующие пункты с DateTime API:
 ●	Получить текущую дату, вывести дату следующего дня.
 ●	Получить текущую дату, вывести дату, которая будет через 5 недель.
-●	Получить текущую дату, вывести дату, которая была 2 месяца назад.
+●	Получить текущую дату, вывести дату, которая была emails месяца назад.
 ●	Получить текущее время, вывести время, которое будет через 12 часов.
 ●	Получить последний день текущего месяца.
 ●	Найти сколько дней осталось в этом году.
@@ -35,8 +35,8 @@ public class DateTimeAPI_1 {
         LocalDate plus5Weeks = nowData.plusWeeks ( 5 );
         System.out.println ( "Дата через 5 недель: " + plus5Weeks );
 
-        LocalDate minus2Months = nowData.minusMonths ( 2 );
-        System.out.println ( "Дата 2 месяца назад: " + minus2Months );
+        LocalDate minus2Months = nowData.minusMonths ( 1 );
+        System.out.println ( "Дата emails месяца назад: " + minus2Months );
 
         LocalTime plus12Hours = nowTime.plusHours ( 12 );
         System.out.println ( "Время через 12 часов: " + plus12Hours );

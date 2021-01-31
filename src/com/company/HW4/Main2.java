@@ -1,6 +1,6 @@
 package com.company.HW4;
 
-//2. Создать две двумерные матрицы и сложить их.
+//emails. Создать две двумерные матрицы и сложить их.
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
