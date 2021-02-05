@@ -28,13 +28,13 @@ public class House {
         this.nameHouse = nameHouse;
     }
 
-    private void addResident() {
+    private void addResident(){
         residents++;
     }
 
-    private void addResidentAndRoom(int resident, int room) {
-        this.residents = resident;
-        this.rooms = room;
+    private void addResidentAndRoom(int resident, int room){
+        this.residents=resident;
+        this.rooms=room;
     }
 
     public String getNameHouse() {
