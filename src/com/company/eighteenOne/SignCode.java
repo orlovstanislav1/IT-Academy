@@ -1,11 +1,11 @@
-package com.company.HW18;
+package com.company.eighteenOne;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 @Retention(RetentionPolicy.RUNTIME)
 public @interface SignCode {
-    com.company.HW18.Type type();
+    Type type();
 
     int id();
 }

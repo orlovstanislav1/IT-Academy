@@ -1,4 +1,4 @@
-package com.company.HW18;
+package com.company.eighteenOne;
 
 /*
 1)	Создать собственную аннотацию @SignCode c методами type(значения PACKAGE, METHOD, FIELD, LOCAL_VARIABLE, CLASS,
@@ -12,6 +12,6 @@ c с помощью рефлексии.
  */
 public class Main {
     public static void main(String[] args) {
-        com.company.HW18.Person1.method ();
+        Person.method ();
     }
 }

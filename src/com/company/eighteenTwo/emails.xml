@@ -1,4 +1,4 @@
-<emailss>
+<emails>
     <email important="false">
         <id>0</id>
         <to>Vimal</to>
@@ -27,4 +27,4 @@
         <heading>Health Tips</heading>
         <body>Smoking is injurious to health!</body>
     </email>
-</emailss>
+</emails>

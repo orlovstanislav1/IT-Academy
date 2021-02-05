@@ -1,4 +1,4 @@
-package com.company.HW18;
+package com.company.eighteenOne;
 
 public enum Type {
     PACKAGE,

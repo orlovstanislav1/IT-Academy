@@ -1,4 +1,4 @@
-package com.company.HW18;
+package com.company.eighteenTwo;
 
 public class Email {
     private int id;
